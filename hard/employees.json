@@ -1,0 +1,62 @@
+[
+    {
+        "employeeID": 1,
+        "name": "John Doe",
+        "salary": 60000,
+        "department": "Engineering"
+    },
+    {
+        "employeeID": 2,
+        "name": "Jane Smith",
+        "salary": 70000,
+        "department": "Marketing"
+    },
+    {
+        "employeeID": 3,
+        "name": "Alice Johnson",
+        "salary": 60000,
+        "department": "Sleeping"
+    },
+    {
+        "employeeID": 4,
+        "name": "Brian Thompson",
+        "salary": 70000,
+        "department": "Cooking"
+    },
+    {
+        "employeeID": 5,
+        "name": "Claire Davis",
+        "salary": 60000,
+        "department": "Engineering"
+    },
+    {
+        "employeeID": 6,
+        "name": "Jane Smith",
+        "salary": 70000,
+        "department": "Marketing"
+    },
+    {
+        "employeeID": 7,
+        "name": "John Doe",
+        "salary": 60000,
+        "department": "Engineering"
+    },
+    {
+        "employeeID": 8,
+        "name": "Jane Smith",
+        "salary": 70000,
+        "department": "Marketing"
+    },
+    {
+        "employeeID": 9,
+        "name": "John Doe",
+        "salary": 60000,
+        "department": "Engineering"
+    },
+    {
+        "employeeID": 10,
+        "name": "Jane Smith",
+        "salary": 70000,
+        "department": "Marketing"
+    }
+]
